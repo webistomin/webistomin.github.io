@@ -675,7 +675,6 @@ body {
   }
   .\31 2u\28mobile\29,
   .\31 2u\24\28mobile\29 {
-    width: 100%;
     margin-bottom: 20px;
     clear: none;
     margin-left: 0;
@@ -995,14 +994,14 @@ header>p {
 }
 
 .image img {
-  /* display: block; */
+  display: block;
   /*width: 100%;*/
 }
 
 .image.fit {
+  text-align: center;
   display: block;
   width: 100%;
-  text-align: center;
 }
 
 .image.featured {
