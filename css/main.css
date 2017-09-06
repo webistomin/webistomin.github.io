@@ -675,6 +675,7 @@ body {
   }
   .\31 2u\28mobile\29,
   .\31 2u\24\28mobile\29 {
+    width: 100%;
     margin-bottom: 20px;
     clear: none;
     margin-left: 0;
@@ -994,7 +995,7 @@ header>p {
 }
 
 .image img {
-  display: block;
+  /* display: block; */
   /*width: 100%;*/
 }
 
